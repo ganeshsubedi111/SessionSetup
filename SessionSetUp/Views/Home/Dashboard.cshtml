@@ -1,0 +1,11 @@
+﻿@model SessionSetUp.models.Student
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1>Dashboard</h1>
+<h2>@ViewBag.StudentSession</h2>
+
+<a asp-controller="Home" asp-action="Logout" class="btn btn-danger" >Logout</a>
+
+

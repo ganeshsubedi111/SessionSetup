@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\User\Desktop\AspDotNetMVC\publish</_PublishTargetUrl>
+    <History>True|2024-04-27T06:21:04.7889323Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Connection">
+      <Value>Server=DESKTOP-0PCSQON\INSOFTDDATA12%3b database=MVCDB%3b User ID=sa%3bpassword=L%40xmir1n1%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
